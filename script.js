@@ -13,6 +13,17 @@ function akanName(){
 };
 
 var gender=getGender();
-var date=new Date
+var date=new Date(year+"/" +month+"/"+day);
+var dayBorn=date.getDay();
+var akanNameName;
+var validateGender=(gender!=="male"&&gender!=="female");
+
+if(year<=0){
+    alert("The is invalid");
+}
+
+else if(month<=0|| month > ){
+    alert("Invalid month should be between 1 and 12");
+}
 
 
