@@ -10,7 +10,7 @@
  > Am so passionate about nature and due to the passion i have for nature i had to go for coding to make my dream come true.
  
  ## LINK TO LIVE SITE
- > click [HERE]()
+ > click [HERE](https://github.com/LukindoSandra/anisan)
  
  ## TECHNOLOGIES USED
  > I used a background from pexels where i edited it first then linked my HTML to my JavaScript after consulting several colleagues.
