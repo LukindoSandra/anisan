@@ -13,10 +13,10 @@
  > I used a background from pexels where i edited it first then linked my HTML to my JavaScript after consulting several colleagues.
  
  ## CONTACTS
- > EMAIL:sandramaryanne9@gmail.com
+ > EMAIL:sandramaryanne9@gmail.com<br>
  > PHONE NUMBER:0746155151
                :0748111606
                
- ## LINCENSE AND COPYRIGHT
+ ## LICENSE AND COPYRIGHT
  > 
  
